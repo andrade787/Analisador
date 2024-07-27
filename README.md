@@ -5,8 +5,7 @@
 1. Clone o repositório:
 
     ```bash
-    git clone https://github.com/seu-usuario/seu-repositorio.git
-    cd nome-do-repositorio
+    git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/andrade787/Analisador.git)
     ```
 
 2. Crie um ambiente virtual (opcional, mas recomendado):
