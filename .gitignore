@@ -1,0 +1,33 @@
+# Arquivos e diretórios do ambiente virtual
+venv/
+.env/
+
+# Arquivos de banco de dados do Django
+*.sqlite3
+db.sqlite3
+
+# Arquivos de migração do Django
+*/migrations/*.pyc
+*/migrations/__pycache__/
+*/migrations/*.py
+
+# Arquivos de cache
+*.pyc
+__pycache__/
+
+# Arquivos de configuração do editor
+*.swp
+*.swo
+.idea/
+
+# Arquivos de log
+*.log
+
+# Diretório do PyCharm
+.pyCharm/
+
+# Arquivos de build
+*.egg-info/
+*.egg
+dist/
+build/
