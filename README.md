@@ -5,6 +5,13 @@
 Este projeto tem como objetivo analisar o histórico de dividendos de ativos, calcular preços justos usando modelos financeiros, e recomendar ações ou fundos imobiliários (FII) com base em suas cotações atuais e modelos de valuation.
 
 
+## Funcionalidades
+- Coleta de dados históricos de dividendos de ativos usando a biblioteca yfinance.
+- Cálculo do preço justo de ativos usando os modelos de Gordon e Bazin.
+- Recomendação de compra com base nos preços calculados.
+- Exibição dos resultados em um DataFrame do Pandas.
+
+
 ## Instalação
 
 1. Clone o repositório:
