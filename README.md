@@ -1,5 +1,10 @@
 # Aanalisador
 
+
+## Sobre
+Este projeto tem como objetivo analisar o histórico de dividendos de ativos, calcular preços justos usando modelos financeiros, e recomendar ações ou fundos imobiliários (FII) com base em suas cotações atuais e modelos de valuation.
+
+
 ## Instalação
 
 1. Clone o repositório:
